@@ -12,7 +12,7 @@ export class CreditText {
   private groundColor = 0x777777;
   private spaceColor = 0xCCCCCC;
 
-  copy = 'Created by Cary Huang - youtube.com/carykh\nPorted to PixiJS by Matthew Martori';
+  copy = 'Originally created by Cary Huang - youtube.com/carykh\nPorted to PixiJS by Matthew Martori';
 
   constructor(x:number, y: number) {
 

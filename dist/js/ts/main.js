@@ -19,10 +19,10 @@ import isMobile from 'ismobilejs';
 let hasPickedLang = false;
 let allHighTextures;
 const titles = [
-    'The Scale of the Universe 2',
+    'The ZK Scale of the Universe',
     'סדרי גודל ביקום',
     'De schaal van het Universum',
-    'The Scale of the Universe 2',
+    'The ZK Scale of the Universe',
     '宇宙的刻度',
     'La Escala del Universo 2',
     'Universums Skala',
@@ -84,7 +84,7 @@ fadeInApp.setConfig({
 console.log(`
   Scale of the Universe 2.1
 
-  Created by Cary Huang
+  Originally created by Cary Huang
   Implemented by Matthew Martori @matttt on github
   
   Made with ♥️

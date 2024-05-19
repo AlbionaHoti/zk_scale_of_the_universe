@@ -262,9 +262,9 @@ Parsec
 Earth's movement around the Sun causes nearby stars to appear to move, called parallax.  If a nearby star is perpendicular to the solar system and is exactly one parsec away, its parallax will be exactly one arcsecond (1/3600°).  Parallax + Arcsec = Parsec
 Gigaparsec
 A gigaparsec is one billion parsecs.  It is one of the largest  measures of distance.  There's really no need to have any measure larger, because the radius of the observable universe is only 14 gigaparsecs.
-Universe
+ZK Zone
 The Universe is everything we know.  Oh, also, the universe may be much larger than this, or could even be infinite!  There's just no way to accurately measure the size. There may also be multiverses, too, but we'll never know for sure.
-Observable Universe
+Observable ZK Universe
 The radius, which is half of the diameter, is about 46 billion light-years.  You might expect to only see 13.7 billion light-years away because light has had only 13.7 billion years to travel, but due to the expansion of space, the objects that used to be 13.7 billion light-years away are now 46 billion light-years away, and we can see these.
 Sloan Great Wall
 The Sloan Great Wall is represented by the thick green band.  It is the largest known object in the universe.  It is made up of galaxies, and is called a galactic filament.  We are not in it.  In fact, it lies about one billion light-years from us.
@@ -565,7 +565,7 @@ The bacteriophage, or just "phage" for short, is a type of bacteria-infecting vi
 Dust mite
 Dust mites like to eat dust, which you probably know is just dead skin cells.  Many people are allergic to dust mites.  Some people are allergic to their poop.  Either way, almost all people want to get rid of this pesky pest.
 Twip
-A twip is a twentieth of a typographical point.  That means that 12-point font is approximately 240 twips high. Also, TUIP can stand for "The Universe in Perspective\ an old name for the Scale of the Universe 2.  TUIP and twip are pronounced the same.
+A twip is a twentieth of a typographical point.  That means that 12-point font is approximately 240 twips high. Also, TUIP can stand for "The Universe in Perspective\ an old name for The ZK Scale of the Universe.  TUIP and twip are pronounced the same.
 Thou
 Although the word "thou" is most commonly known as being an old form of the word "you", a thou is also a unit of measurement.  It is equal of one thousandth of an inch; in fact, that's where it gets its name.  THOUsandth.  Pretty cool.
 Width of Silk Fiber
@@ -617,7 +617,7 @@ peta
 exa
 zetta
 yotta
-The Scale of the Universe 2
+The ZK Scale of the Universe
 Use the scroll bar to zoom in and out.
 Click on objects to learn more.
 Start
